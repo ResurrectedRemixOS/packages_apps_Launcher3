@@ -34,6 +34,7 @@ import com.android.launcher3.automation.AutomationRepository
 import com.android.launcher3.backuprestore.LauncherRestoreEventLogger
 import com.android.launcher3.display.DisplayController
 import com.android.launcher3.display.DisplayControllerImpl
+import com.android.launcher3.glass.LauncherGlass
 import com.android.launcher3.dragndrop.SystemDragController
 import com.android.launcher3.dragndrop.SystemDragControllerImpl
 import com.android.launcher3.dragndrop.SystemDragControllerStub
@@ -66,7 +67,6 @@ import com.android.launcher3.util.InstantAppResolver
 import com.android.launcher3.util.ListenableRef
 import com.android.launcher3.util.MutableListenableRef
 import com.android.launcher3.util.PluginManagerWrapper
-import com.android.launcher3.util.QuickstepBackgroundBlurHelper
 import com.android.launcher3.util.WindowBlurState.WINDOW_BLUR_STATE
 import com.android.launcher3.util.window.RefreshRateTracker
 import com.android.launcher3.util.window.WindowManagerProxy
@@ -122,10 +122,9 @@ abstract class ActivityContextModule {
         impl: SecondaryDisplayQuickstepDelegateImpl
     ): SecondaryDisplayDelegate
 
+    // Catalyxx glass on the home screen, and Google's folder blur wherever that's off
     @Binds
-    abstract fun bindBackgroundBlurHelper(
-        quickstepBackgroundBlurHelper: QuickstepBackgroundBlurHelper
-    ): BlurBackgroundHelper
+    abstract fun bindBackgroundBlurHelper(launcherGlass: LauncherGlass): BlurBackgroundHelper
 
     companion object {
         @JvmStatic
