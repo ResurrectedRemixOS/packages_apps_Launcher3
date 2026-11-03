@@ -59,6 +59,7 @@ import com.android.launcher3.celllayout.CellLayoutLayoutParams;
 import com.android.launcher3.folder.Folder;
 import com.android.launcher3.graphics.Scrim;
 import com.android.launcher3.keyboard.ViewGroupFocusHelper;
+import com.android.launcher3.util.BlurBackgroundHelper;
 import com.android.launcher3.views.BaseDragLayer;
 import com.android.systemui.plugins.shared.LauncherOverlayManager.LauncherOverlayCallbacks;
 
@@ -94,6 +95,9 @@ public class DragLayer extends BaseDragLayer<Launcher> implements LauncherOverla
     // Related to adjacent page hints
     private final ViewGroupFocusHelper mFocusIndicatorHelper;
     private Scrim mWorkspaceDragScrim;
+
+    // Catalyxx glass on the home screen, told about this window
+    private @Nullable BlurBackgroundHelper mBlurBackgroundHelper;
 
     /**
      * Used to create a new DragLayer from XML.
@@ -481,6 +485,29 @@ public class DragLayer extends BaseDragLayer<Launcher> implements LauncherOverla
             // for indexes greater than the top index, we fetch one item above to shift for the
             // displacement of the top index
             return i + 1;
+        }
+    }
+
+    @Override
+    protected void onAttachedToWindow() {
+        super.onAttachedToWindow();
+        mBlurBackgroundHelper = mContainer.getActivityComponent().getBlurBackgroundHelper();
+        mBlurBackgroundHelper.onHomeAttached(this);
+    }
+
+    @Override
+    protected void onDetachedFromWindow() {
+        if (mBlurBackgroundHelper != null) {
+            mBlurBackgroundHelper.onHomeDetached();
+        }
+        super.onDetachedFromWindow();
+    }
+
+    @Override
+    protected void onWindowVisibilityChanged(int visibility) {
+        super.onWindowVisibilityChanged(visibility);
+        if (mBlurBackgroundHelper != null) {
+            mBlurBackgroundHelper.onHomeVisibilityChanged(visibility == VISIBLE);
         }
     }
 

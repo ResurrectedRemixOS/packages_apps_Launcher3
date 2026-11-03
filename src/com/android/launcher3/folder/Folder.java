@@ -41,6 +41,7 @@ import android.annotation.SuppressLint;
 import android.appwidget.AppWidgetHostView;
 import android.content.Context;
 import android.graphics.Canvas;
+import android.graphics.Color;
 import android.graphics.Insets;
 import android.graphics.Rect;
 import android.graphics.Typeface;
@@ -759,6 +760,11 @@ public class Folder extends AbstractFloatingView implements ClipPathView, DragSo
         if (blurOnMoreSurfaces()) {
             mBlurBackgroundHelper.prepareToOpenFolder(this);
         }
+        // Catalyxx glass brings a shadow of its own
+        final int shadowColor = mBlurBackgroundHelper.replacesFolderBackground()
+                ? Color.TRANSPARENT : Color.BLACK;
+        setOutlineAmbientShadowColor(shadowColor);
+        setOutlineSpotShadowColor(shadowColor);
 
         mContent.bindItems(items);
         centerAboutIcon();
@@ -1916,7 +1922,9 @@ public class Folder extends AbstractFloatingView implements ClipPathView, DragSo
             canvas.clipPath(mClipPath.getPath());
 
             mBlurBackgroundHelper.drawFolderBlur(canvas, mClipPath, this);
-            mBackground.draw(canvas);
+            if (!mBlurBackgroundHelper.replacesFolderBackground()) {
+                mBackground.draw(canvas);
+            }
 
             if (!mIsAnimatingClosed) {
                 // If animating open, clip the content to the clip path to keep in bounds.
@@ -1929,7 +1937,9 @@ public class Folder extends AbstractFloatingView implements ClipPathView, DragSo
             }
         } else {
             mBlurBackgroundHelper.drawFolderBlur(canvas, null, this);
-            mBackground.draw(canvas);
+            if (!mBlurBackgroundHelper.replacesFolderBackground()) {
+                mBackground.draw(canvas);
+            }
 
             super.dispatchDraw(canvas);
         }

@@ -26,6 +26,9 @@ import javax.inject.Inject
 /**
  * Helper class that creates and updates the blur drawable used for folders and the homescreen
  * popup.
+ *
+ * Catalyxx: it also draws open folders' glass (quickstep's LauncherGlass), so the views here,
+ * which also build without the platform's hidden APIs, only call into it.
  */
 @ActivityContextSingleton
 open class BlurBackgroundHelper
@@ -45,4 +48,16 @@ constructor() {
     open fun applyPopupBlurBackground(view: View) {}
 
     open fun getPopupBlurSurfaceColor(fallbackColor: Int) = fallbackColor
+
+    /** Called as the home screen's drag layer is attached to its window. */
+    open fun onHomeAttached(dragLayer: View) {}
+
+    /** Called as the home screen's drag layer is detached from its window. */
+    open fun onHomeDetached() {}
+
+    /** Called as the home screen's window is shown and hidden. */
+    open fun onHomeVisibilityChanged(visible: Boolean) {}
+
+    /** Whether the glass [drawFolderBlur] draws replaces an open folder's own background. */
+    open fun replacesFolderBackground(): Boolean = false
 }
