@@ -12,7 +12,6 @@ import android.graphics.Rect
 import android.graphics.drawable.GradientDrawable
 import android.os.Handler
 import android.os.Looper
-import android.provider.Settings
 import android.view.View
 import com.android.internal.graphics.drawable.BackgroundBlurDrawable
 import com.android.internal.util.catalyxx.GlassLook
@@ -220,14 +219,7 @@ constructor(
             return
         }
         this.dragLayer = dragLayer
-        val resolver = context.contentResolver
-        for (key in GlassSettings.KEYS) {
-            resolver.registerContentObserver(
-                Settings.Global.getUriFor(key),
-                /* notifyForDescendants= */ false,
-                settingsObserver,
-            )
-        }
+        GlassSettings.observe(context.contentResolver, settingsObserver, *GlassSettings.KEYS)
         readSettings()
         dragLayer.invalidate()
     }
@@ -286,6 +278,13 @@ constructor(
     override fun isBlurEnabled() = googleBlur.isBlurEnabled()
 
     override fun replacesFolderBackground() = isActive(folder)
+
+    override fun isPopupBlurEnabled() = googleBlur.isPopupBlurEnabled()
+
+    override fun applyPopupBlurBackground(view: View) = googleBlur.applyPopupBlurBackground(view)
+
+    override fun getPopupBlurSurfaceColor(fallbackColor: Int) =
+        googleBlur.getPopupBlurSurfaceColor(fallbackColor)
 
     private fun isActive(piece: Piece): Boolean =
         piece.on && launcher != null && dragLayer != null && blurState.value
