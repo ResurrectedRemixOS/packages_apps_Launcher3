@@ -444,7 +444,10 @@ public class QuickScoresController {
     LinkedHashMap<String, Drawable> logos = new LinkedHashMap<>();
     walk(root, texts, logos);
     if (DEBUG) Log.d(TAG, "Card texts=" + texts + " logos=" + logos.keySet());
+    // Buttons carry descriptions too; the teams' abbreviations are also written out.
     List<String> teams = new ArrayList<>(logos.keySet());
+    teams.retainAll(texts);
+    if (teams.size() != 2) teams = new ArrayList<>(logos.keySet());
     List<String> scores = new ArrayList<>();
     for (String text : texts) {
       if (SCORE.matcher(text).matches()) scores.add(text);
@@ -470,7 +473,7 @@ public class QuickScoresController {
     if (view.getVisibility() != View.VISIBLE) return;
     if (view instanceof TextView) {
       CharSequence text = ((TextView) view).getText();
-      String value = text == null ? "" : text.toString().trim();
+      String value = text == null ? "" : text.toString().replaceAll("\\s+", " ").trim();
       if (!value.isEmpty()) texts.add(value);
     } else if (view instanceof ImageView) {
       CharSequence description = view.getContentDescription();
