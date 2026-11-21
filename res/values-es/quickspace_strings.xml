@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string-array name="quickspace_psa_morning">
+        <item>¡Buenos días!</item>
+        <item>¡Buenos días, que empiece la fiesta!</item>
+        <item>¡Qué día tan bonito!</item>
+        <item>¡Que tengas un buen día!</item>
+        <item>¿Y si echas una siesta de cinco minutos?</item>
+        <item>Las mañanas son un lienzo en blanco para tu obra maestra diaria.</item>
+        <item>Aprovecha cada mañana el amanecer de nuevas oportunidades.</item>
+        <item>Con la primera luz del día, encuentra la fuerza para iluminar tu camino.</item>
+        <item>Tu día comienza con infinitas posibilidades.</item>
+        <item>Cada amanecer te recuerda que puedes volver a empezar.</item>
+        <item>Despierta con un propósito y conquista el día que tienes por delante.</item>
+        <item>Tus ideas pueden ser la base de grandes logros.</item>
+        <item>El mundo despierta, y tu potencial también.</item>
+        <item>El primer capítulo de tu aventura diaria.</item>
+        <item>Convierte tu rutina matutina en el impulso hacia el éxito.</item>
+        <item>Salga o no el sol, tu potencial siempre sigue creciendo.</item>
+        <item>Es hora de nuevas ideas y acciones valientes.</item>
+        <item>A quien madruga, Dios le ayuda; tú puedes alcanzar tus sueños.</item>
+        <item>Encuentra el valor para perseguir tus aspiraciones.</item>
+        <item>Levántate y brilla: la grandeza te espera.</item>
+        <item>El mejor momento para empezar es ahora.</item>
+        <item>¡Buenos días! Nuevo día, nuevas posibilidades.</item>
+        <item>El mundo espera toda tu energía.</item>
+        <item>Hoy es una página en blanco. Escribe algo épico.</item>
+        <item>Levántate como el sol: imparable y brillante.</item>
+        <item>Las mañanas son para quienes sueñan y actúan.</item>
+        <item>Inhala valor, exhala dudas.</item>
+        <item>Tu primera victoria de hoy es simplemente haberte levantado.</item>
+        <item>Haz que hoy sea tan bueno que ayer sienta envidia.</item>
+        <item>Buenos días, leyenda. Es hora de construir tu imperio.</item>
+        <item>El sol de la mañana no pide permiso para brillar.</item>
+        <item>Empieza con fuerza. Termina con aún más fuerza.</item>
+        <item>Cada mañana es una segunda oportunidad para vivir.</item>
+        <item>Haz que hoy sea el día en que te vuelvas imparable.</item>
+        <item>Café en mano, objetivos en mente.</item>
+        <item>Sé el motivo por el que hoy cantan los pájaros.</item>
+        <item>Buenos días, precioso desastre.</item>
+        <item>Despierta. Tu teléfono ya tiene más actualizaciones que tú.</item>
+        <item>Enhorabuena por arrancar hoy. Nivel: experto.</item>
+        <item>Buenos días. Hora de ignorar tus responsabilidades en 4K.</item>
+        <item>Levántate y ponte en marcha... o al menos levántate y ponte a deslizar.</item>
+        <item>Buenos días. Tu batería está al 69 %: que merezca la pena.</item>
+        <item>Otro día, otra oportunidad para flashear tus decisiones vitales.</item>
+        <item>El sol ya ha salido. ¿Tu motivación? Sigue cargando...</item>
+        <item>Hora de fingir que vuelves a ser un adulto funcional.</item>
+        <item>Buenos días, rayito de sol. Tu productividad ya está decepcionada.</item>
+        <item>Levántate y brilla... o simplemente levántate y vuelve a engañarte.</item>
+        <item>Vaya, te has despertado. ¿Quieres una medalla o más autoengaño?</item>
+        <item>Otra preciosa mañana para ignorar tus objetivos.</item>
+        <item>Buenos días. Espero que hayas disfrutado de esos cinco minutos de motivación.</item>
+        <item>Enhorabuena por arrancar en la realidad. ¿Qué tal va el lag?</item>
+        <item>Hora de fingir que hoy será diferente. Qué adorable.</item>
+        <item>Buenos días, campeón. Tu horario de sueño ha llamado: está decepcionado.</item>
+        <item>Ah, sí: el ritual diario de mentirte antes del café.</item>
+        <item>Buenos días. Tus sueños han llamado: no van a volver.</item>
+    </string-array>
+    <string-array name="quickspace_psa_noon">
+        <item>Persigue tus sueños, no los minutos.</item>
+        <item>En cada instante surge una nueva oportunidad.</item>
+        <item>Disfruta del camino, no solo del destino.</item>
+        <item>Hoy es un regalo; por eso se llama presente.</item>
+        <item>Deja que tu sonrisa cambie el mundo.</item>
+        <item>La vida es una historia: haz que cada capítulo cuente.</item>
+        <item>Encuentra la alegría en los pequeños momentos cotidianos.</item>
+        <item>Lo mejor está por llegar. ¡Sigue así!</item>
+        <item>Tu oportunidad de convertir «¿y si...? » en «así será».</item>
+        <item>Aprovecha el día, empezando ahora mismo.</item>
+        <item>La felicidad es una elección que puedes hacer en cualquier momento.</item>
+        <item>Cree en ti, incluso en una tarde de sueño.</item>
+        <item>Deja que tus actos hablen más alto que el reloj.</item>
+        <item>Tu vida depende de lo que hagas con ella; haz que sea increíble.</item>
+        <item>Sueña a lo grande, trabaja duro y nunca te rindas.</item>
+        <item>Eres más fuerte de lo que crees.</item>
+        <item>Cada tropiezo prepara el terreno para volver con más fuerza.</item>
+        <item>Disfruta del camino, no solo del destino.</item>
+        <item>Persigue tus metas, no tus miedos.</item>
+        <item>Tu potencial no tiene límites: libéralo.</item>
+        <item>Sigue adelante. La luz de la tarde es tuya.</item>
+        <item>Pausa del mediodía: lo estás haciendo mejor de lo que crees.</item>
+        <item>¿Poca energía? Que no te falte propósito.</item>
+        <item>Siempre es mejor progresar que buscar la perfección.</item>
+        <item>Una hora de concentración puede cambiarlo todo.</item>
+        <item>Ya has recorrido la mitad del día: termina con fuerza.</item>
+        <item>Los pequeños pasos constantes ganan a los esfuerzos esporádicos.</item>
+        <item>Mantén el hambre de superarte y los pies en la tierra.</item>
+        <item>Tu yo del futuro te está animando ahora mismo.</item>
+        <item>Convierte «ojalá» en «lo haré».</item>
+        <item>Sigue avanzando. La inercia es mágica.</item>
+        <item>El esfuerzo te sienta bien.</item>
+        <item>No esperes a tener motivación. Créala.</item>
+        <item>¿Ya es mediodía? El tiempo vuela cuando evitas tus tareas.</item>
+        <item>Sobreviviendo a base de cafeína y decisiones cuestionables.</item>
+        <item>Control de mediodía: ¿sigue sin llegar la OTA de tu motivación?</item>
+        <item>Has desperdiciado media jornada. La otra mitad empieza ahora.</item>
+        <item>Sigue, rey/reina: tu ROM también sigue inestable.</item>
+        <item>La hora de comer = hora de la crisis existencial.</item>
+        <item>Lo estás haciendo genial. No dejes que el reloj te haga dudar de la realidad.</item>
+        <item>Funcionando ahora mismo con un 2 % de esperanza y un 98 % de autoengaño.</item>
+        <item>Ambiente de mediodía: fingiendo ser productivo.</item>
+        <item>¿Ya es mediodía? Impresiona lo rápido que puedes perder el tiempo.</item>
+        <item>Crisis de mediodía cargando... 69 % completado.</item>
+        <item>¿Sigues fingiendo que eres productivo? Icónico.</item>
+        <item>Pausa para comer = momento de deslizar y odiarte un poco.</item>
+        <item>La mitad del día se ha ido. Progreso conseguido: cero. Lo de siempre.</item>
+        <item>Ambiente de mediodía: cafeína y arrepentimiento absoluto.</item>
+        <item>Lo estás bordando... evitando tus responsabilidades.</item>
+        <item>Vaya, has llegado al mediodía. El listón estaba por los suelos.</item>
+        <item>Sigue adelante. Tu yo del futuro ya siente vergüenza ajena.</item>
+        <item>Especial de tarde: angustia existencial con patatas fritas extra.</item>
+    </string-array>
+    <string-array name="quickspace_psa_early_evening">
+        <item>Abraza el momento presente, sea la hora que sea.</item>
+        <item>En cada atardecer se esconde un nuevo amanecer de oportunidades.</item>
+        <item>La vida es un viaje; disfruta del paisaje durante el camino.</item>
+        <item>Tu actitud da forma a tu realidad.</item>
+        <item>Tu historia sigue escribiéndose, incluso cuando se pone el sol.</item>
+        <item>Descubre la belleza de los momentos cotidianos.</item>
+        <item>Es hora de reflexionar y empezar de nuevo.</item>
+        <item>Elige la alegría, sin importar lo que marque el reloj.</item>
+        <item>Las oportunidades no fichan al terminar la jornada.</item>
+        <item>Sé el motivo por el que alguien sonríe.</item>
+        <item>Tu potencial no tiene límites.</item>
+        <item>La magia puede aparecer a cualquier hora.</item>
+        <item>Tu vida depende de lo que hagas con ella; haz que sea extraordinaria.</item>
+        <item>Mantén la curiosidad y agradece lo que tienes.</item>
+        <item>Sé el cambio que quieres ver en el mundo.</item>
+        <item>Cree en ti: eres capaz de hacer cosas increíbles.</item>
+        <item>El único límite es el que tú mismo te impones.</item>
+        <item>El éxito comienza con un solo paso.</item>
+        <item>El día llega a su fin, pero tu huella permanece.</item>
+        <item>Reflexiona. Ajusta. Sigue adelante.</item>
+        <item>Las tardes son para agradecer y crecer.</item>
+        <item>Hoy ya has ganado simplemente por estar aquí.</item>
+        <item>Deja que el atardecer te recuerde que los finales también pueden ser bonitos.</item>
+        <item>Descansar forma parte del proceso.</item>
+        <item>Respira hondo. Te lo has ganado.</item>
+        <item>El éxito de mañana empieza con la tranquilidad de esta noche.</item>
+        <item>Siéntete orgulloso de lo que has hecho hoy.</item>
+        <item>Incluso los días lentos te hacen avanzar.</item>
+        <item>Termina el día con intención, no con arrepentimiento.</item>
+        <item>Lo mejor todavía está por llegar.</item>
+        <item>Primeras horas de la tarde-noche: cuando el arrepentimiento se encuentra con la productividad.</item>
+        <item>Atardecer cargando... 47 % completado.</item>
+        <item>Hora de pensar por qué flasheaste aquella última compilación.</item>
+        <item>El día casi ha terminado. Casi has sobrevivido.</item>
+        <item>Ambiente de última hora de la tarde: batería baja, ego aún más bajo.</item>
+        <item>Enhorabuena, has superado otro día inestable.</item>
+        <item>¿Y si sales a tocar hierba antes de que anochezca?</item>
+        <item>Estás a un reinicio de tener una tarde mejor.</item>
+        <item>Primeras horas de la noche: la calma antes de los arrepentimientos nocturnos.</item>
+        <item>Primeras horas de la noche: momento de asumir que hoy también ha sido un fracaso.</item>
+        <item>El atardecer duele más cuando no has hecho nada en todo el día.</item>
+        <item>Enhorabuena por sobrevivir. Aunque sigues sin conseguir ningún logro.</item>
+        <item>Hora de pensar en cómo has desperdiciado otro día. ¡Qué divertido!</item>
+        <item>Ambiente de última hora de la tarde: cansado, sin dinero y todavía flasheando malas decisiones.</item>
+        <item>El día casi ha terminado. Tus objetivos siguen intactos.</item>
+        <item>Vaya, has llegado a la tarde-noche. ¿Quieres un aplauso?</item>
+        <item>Descansa ahora. Mañana volverás a mentirte.</item>
+        <item>Primeras horas de la noche: el lugar donde la motivación viene a morir.</item>
+        <item>Otro día superado. Crecimiento detectado: cero.</item>
+    </string-array>
+    <string-array name="quickspace_psa_evening">
+        <item>Aprovecha la noche, pues guarda sus propios misterios.</item>
+        <item>En la tranquilidad de esta tarde, encuentra la serenidad.</item>
+        <item>Las mayores aventuras de la vida pueden comenzar en la oscuridad.</item>
+        <item>Tu viaje continúa incluso después de ponerse el sol.</item>
+        <item>Haz de la noche un lienzo y píntalo con tus sueños.</item>
+        <item>En la quietud de esta tarde, encuentra la paz interior.</item>
+        <item>Las estrellas brillan con más fuerza en las horas más oscuras.</item>
+        <item>Sueña a lo grande, incluso a última hora del día.</item>
+        <item>Tu vida es una historia que espera ser escrita.</item>
+        <item>Es hora de reflexionar y renovarse.</item>
+        <item>Los pensamientos de madrugada pueden traer revelaciones al amanecer.</item>
+        <item>Encuentra alegría en la quietud de esta tarde.</item>
+        <item>El cielo nocturno es un inmenso lienzo de sueños.</item>
+        <item>Tu potencial no tiene hora de dormir: persigue tus pasiones.</item>
+        <item>No pierdas la esperanza, ni siquiera en las horas más oscuras.</item>
+        <item>En medio del caos, encuentra tu calma interior.</item>
+        <item>Mantén una actitud positiva, trabaja duro y haz que suceda.</item>
+        <item>Deja que la noche recargue tu alma.</item>
+        <item>Las tardes y las noches están hechas para grandes sueños y corazones sensibles.</item>
+        <item>Las estrellas ya han salido. Pide un deseo.</item>
+        <item>La paz comienza cuando dejas de correr.</item>
+        <item>El mañana no se preocupa por el hoy. Tú tampoco deberías hacerlo.</item>
+        <item>Termina el día con gratitud, no con ansiedad.</item>
+        <item>La noche es para pensar.</item>
+        <item>Descansa bien, guerrero. Hoy has luchado mucho.</item>
+        <item>La luna demuestra que puede haber luz incluso en la oscuridad.</item>
+        <item>Deja atrás lo que ya no te aporta nada.</item>
+        <item>Se acercan cosas bonitas.</item>
+        <item>Cierra los ojos. Abre la mente.</item>
+        <item>Ambiente nocturno: darle vueltas a todo en alta definición.</item>
+        <item>La noche acaba de empezar. ¿Tu horario de sueño? Prehistórico.</item>
+        <item>Por fin es hora de ignorar todas tus responsabilidades.</item>
+        <item>La tarde-noche es el momento álgido para decir «mañana arreglo mi vida».</item>
+        <item>No olvides cargar el teléfono... y también recargarte tú.</item>
+        <item>Estrellas fuera, neuronas de fiesta.</item>
+        <item>Hora de deslizar sin parar por la pantalla con responsabilidad.</item>
+        <item>Puede que tu ROM sea inestable, pero tu estilo es impecable.</item>
+        <item>Buenas noches, procrastinador profesional.</item>
+        <item>Buenas noches. ¿Sigues fingiendo que te acostarás temprano?</item>
+        <item>La noche: el mejor momento para tomar malas decisiones.</item>
+        <item>Hora de deslizar por la pantalla hasta que te ardan los ojos. Muy sano.</item>
+        <item>Recordatorio nocturno: todavía no eres ese tipo de persona.</item>
+        <item>Cae la noche. Tu motivación cayó hace horas.</item>
+        <item>Por fin toca relajarse... y darle vueltas a absolutamente todo.</item>
+        <item>Ambiente nocturno: «mañana arreglo mi vida» multiplicado por cien.</item>
+        <item>Enhorabuena por superar otro día mediocre.</item>
+        <item>Las estrellas ya han salido. Tu potencial sigue en la cama.</item>
+        <item>Especial nocturno: ansiedad recién hecha y bien caliente.</item>
+    </string-array>
+    <string-array name="quickspace_psa_midnight">
+        <item>Las noches son susurros silenciosos de oportunidades.</item>
+        <item>En la quietud de la noche, encuentra tu fuerza interior.</item>
+        <item>Abraza la oscuridad, pues guarda las llaves de tus sueños.</item>
+        <item>El mundo duerme, pero tu potencial está bien despierto.</item>
+        <item>Puede que sea tarde, pero tus ambiciones no tienen edad.</item>
+        <item>Mantén la curiosidad, sigue despierto y deja que la noche te guíe.</item>
+        <item>Encuentra el valor para perseguir tus sueños.</item>
+        <item>Las grandes cosas nunca nacen de las zonas de confort.</item>
+        <item>Tienes el poder de crear tu propio destino.</item>
+        <item>La felicidad es una elección: elígela cada día.</item>
+        <item>La vida es lo que haces de ella, así que haz que valga la pena.</item>
+        <item>Mantén la concentración, la determinación y las ganas de no rendirte.</item>
+        <item>Tú eres quien escribe tu propia historia.</item>
+        <item>Busca el progreso, no la perfección.</item>
+        <item>Cada día es un nuevo comienzo: haz que sea extraordinario.</item>
+        <item>Inspira a los demás siendo fiel a quien eres.</item>
+        <item>Tu actitud determina tu rumbo.</item>
+        <item>Las ideas más potentes nacen en las horas más silenciosas.</item>
+        <item>Mientras el mundo duerme, las leyendas hacen planes.</item>
+        <item>Tus pensamientos de las tres de la mañana podrían cambiar tu vida.</item>
+        <item>La creatividad no duerme. La ambición tampoco debería.</item>
+        <item>La noche pertenece a quienes se atreven.</item>
+        <item>Mantente despierto por un propósito, no solo por la hora.</item>
+        <item>Algunos sueños solo aparecen a medianoche.</item>
+        <item>El silencio es el mejor lienzo para las ideas.</item>
+        <item>Cuanto más profunda es la noche, más brillante es tu visión.</item>
+        <item>Tu yo del futuro se está construyendo ahora mismo.</item>
+        <item>Sigue adelante. La historia se escribe en momentos como este.</item>
+        <item>Hasta la noche está de tu parte.</item>
+        <item>Medianoche: donde nacen las malas ideas.</item>
+        <item>Los pensamientos de las dos de la mañana pegan más fuerte que tu último flasheo.</item>
+        <item>El vacío te devuelve la mirada. Salúdalo.</item>
+        <item>Mientras la gente normal duerme, las leyendas siguen con acceso root.</item>
+        <item>Horas de medianoche: patrocinadas por la ansiedad y las bebidas energéticas.</item>
+        <item>No estás despierto, simplemente tienes activado el modo nocturno.</item>
+        <item>Las tres de la mañana son solo primera hora para quienes usan ROMs personalizadas.</item>
+        <item>Vete a dormir. O flashea otra compilación. Tú eliges.</item>
+        <item>La noche es oscura y está llena de bootloops.</item>
+        <item>Medianoche: la hora en que la gente sensata duerme y tú sigues aquí.</item>
+        <item>Pensamientos de las dos de la mañana patrocinados por las malas decisiones.</item>
+        <item>El vacío te llama. ¿Sigues ignorando tu horario de sueño?</item>
+        <item>Mientras todos duermen, tú sigues despierto siendo del montón.</item>
+        <item>La medianoche se vive de otra manera cuando no tienes planes de futuro.</item>
+        <item>Club de las tres de la mañana: sus miembros sois tú y tus arrepentimientos.</item>
+        <item>Vete a dormir. O sigue marchitándote. Tú eliges, campeón.</item>
+        <item>Modo nocturno activado. Neuronas desactivadas.</item>
+        <item>Paranoia de medianoche: hasta tu teléfono te está juzgando.</item>
+    </string-array>
+    <string-array name="quickspace_psa_random">
+        <item>Construye la paz, no la guerra.</item>
+        <item>¡Eh, hola! ¿Qué tal?</item>
+        <item>¿Cuántas capturas de pantalla haces?</item>
+        <item>¡Nosotros no empezamos el fuego!</item>
+        <item>Es hora de escuchar buena música.</item>
+        <item>¡Pequeños pasos, grandes resultados!</item>
+        <item>¡Tu potencial no tiene límites!</item>
+        <item>¡Acepta los desafíos!</item>
+        <item>¡Confía en tu camino!</item>
+        <item>Supérate ante cada desafío.</item>
+        <item>Tu potencial es ilimitado.</item>
+        <item>El valor es la clave del progreso.</item>
+        <item>Las semillas del éxito se plantan con trabajo duro.</item>
+        <item>Cree que lo imposible es posible.</item>
+        <item>Tu actitud determina hasta dónde llegarás.</item>
+        <item>Empezando desde cero.</item>
+        <item>Haz hoy algo bonito por alguien.</item>
+        <item>Gracias por tu apoyo.</item>
+        <item>Cordura para tu paranoia.</item>
+        <item>¿Qué tienes en mente?</item>
+        <item>¡Recuerda comprobar el nivel de batería del dispositivo!</item>
+        <item>Comprueba tu correo y tus mensajes.</item>
+        <item>Revisa tu lista de tareas, si tienes una.</item>
+        <item>Puedes desactivar Quickspace desde los ajustes de inicio.</item>
+        <item>¿Te gustamos? No tenemos Patreon.</item>
+        <item>La ROM más tóxica de todas.</item>
+        <item>Tu tiempo es limitado: vive tu propia vida.</item>
+        <item>Ponte objetivos, no límites.</item>
+        <item>En medio de la dificultad se encuentra la oportunidad.</item>
+        <item>Sueña a lo grande, trabaja duro y mantén la concentración.</item>
+        <item>La única forma de hacer un gran trabajo es amar lo que haces.</item>
+        <item>Cree que puedes hacerlo y ya habrás recorrido la mitad del camino.</item>
+        <item>¡Disfruta del día!</item>
+        <item>Estás fuera de la red. De verdad.</item>
+        <item>Esta ROM elimina las cookies... y los rastreadores.</item>
+        <item>No pueden rastrearte si nunca has existido.</item>
+        <item>Bienvenido a la ROM que odia las comodidades.</item>
+        <item>Sin rastreadores. Solo tu propia paranoia.</item>
+        <item>¿Actualizaciones? Cuando se alineen los astros.</item>
+        <item>Batería optimizada. Cordura no incluida.</item>
+        <item>Tu sistema está limpio. Tu conciencia, no tanto.</item>
+        <item>No te preocupes, el vacío no puede rastrearte.</item>
+        <item>¿Has vuelto a flashear? Eso es compromiso... o aburrimiento.</item>
+        <item>ROMs personalizadas: rompiendo cosas desde Android Eclair.</item>
+        <item>¿Para qué quieres estabilidad si puedes tener personalización?</item>
+        <item>Una ROM para gobernarlas a todas. Hasta la semana que viene.</item>
+        <item>Restablecer de fábrica es simplemente un estilo de vida.</item>
+        <item>Tu garantía murió por esto. Respétalo.</item>
+        <item>99 problemas, pero ninguno es el bloatware.</item>
+        <item>Esta ROM funciona con cafeína y optimismo ciego.</item>
+        <item>Bienvenido al club. No tenemos actualizaciones OTA.</item>
+        <item>Esta ROM muerde.</item>
+        <item>Bienvenido al lado oscuro de AOSP.</item>
+        <item>Prometen libertad y luego arrancan con Gmail.</item>
+        <item>La vida con ROMs personalizadas: flashear más de lo que escribes.</item>
+        <item>Los usuarios de ROMs personalizadas son expertos en solucionar lo que ellos mismos han roto.</item>
+        <item>Usuario de ROM personalizada: experto en errores autoinfligidos.</item>
+        <item>Actualizaciones retrasadas; paciencia no incluida.</item>
+        <item>Ahorro de batería desactivado, modo flasheo activado.</item>
+        <item>Teléfono rooteado, habilidades para la vida sin root.</item>
+        <item>Tu teléfono está a salvo. ¿Tu alma? No tanto.</item>
+        <item>La vida es demasiado corta para ROMs de fábrica aburridas.</item>
+        <item>La vida con ROMs personalizadas: 99 % flasheos, 1 % uso real.</item>
+        <item>Cuando tu teléfono se reinicia más que tú.</item>
+        <item>Flasheas tanto que hasta tu cargador está cansado.</item>
+        <item>Romper cosas solo para arreglarlas mejor.</item>
+        <item>La duración de la batería depende de tu nivel de optimismo.</item>
+        <item>Convertir errores en funciones, un reinicio cada vez.</item>
+        <item>Habilidad para flashear: 90 % esperanza, 10 % pánico.</item>
+        <item>«Ayer funcionaba» es el nuevo lema.</item>
+        <item>Un desarrollador para gobernarlos a todos. Y sigue sin dormir.</item>
+        <item>Un ejército de un solo programador: café, código y repetir.</item>
+        <item>¿Donaciones? No, preferimos agradecimientos e informes de errores.</item>
+        <item>Otras ROM quieren dinero. Nosotros queremos tu respeto.</item>
+        <item>¿Pagarnos? Estamos ocupados arreglando tu desastre.</item>
+        <item>¿Aceptamos donaciones? Lo sentimos, estamos sin blanca y orgullosos.</item>
+        <item>Ellos piden dinero; nosotros rompemos cosas gratis.</item>
+        <item>Flashea primero, pregunta después.</item>
+        <item>La duración de la batería: ¿mito o leyenda?</item>
+        <item>Actualizaciones en camino... algún día.</item>
+        <item>Donde los errores se convierten en funciones.</item>
+        <item>¿Has dejado el móvil como un ladrillo? Prueba a apagarlo y encenderlo.</item>
+        <item>Desinstala aquí tus preocupaciones.</item>
+        <item>¿Garantía? Nunca he oído hablar de eso.</item>
+        <item>¿Inestable? Es nuestra forma de vida.</item>
+        <item>Menos aplicaciones basura, más reinicios.</item>
+        <item>Descargar. Flashear. Llorar. Repetir.</item>
+        <item>Porque la ROM de fábrica está sobrevalorada.</item>
+        <item>Impulsada por cafeína y errores.</item>
+        <item>Lo flasheé. Lo rompí. Lo arreglé. Volví a dejarlo como un ladrillo.</item>
+        <item>Los usuarios de ROMs personalizadas no duermen. Flashean.</item>
+        <item>Advertencia: puede provocar una independencia extrema.</item>
+        <item>La estabilidad es temporal. El caos es eterno.</item>
+        <item>¿OTA? Aquí no hacemos eso.</item>
+        <item>Tus datos te pertenecen. Toda una revolución, ¿verdad?</item>
+        <item>Sé amable. Rebobina. Y flashea también la última compilación.</item>
+        <item>Sal a tocar hierba. Después, revisa las estadísticas de batería.</item>
+        <item>Eres diferente. Tu ROM también.</item>
+        <item>Los usuarios de ROMs personalizadas no necesitan terapia: simplemente volvemos a flashear.</item>
+        <item>La vida con ROMs personalizadas: 90 % paranoia, 10 % «seguro que arranca».</item>
+        <item>Otros desarrolladores usan IA. Nosotros usamos autoengaño y rencor.</item>
+        <item>Claude escribió el código. El desarrollador olvidó probarlo. El desarrollo de ROMs personalizadas en su máxima expresión.</item>
+        <item>Creamos las funciones. Ellos las roban y cierran el código. Lo de siempre.</item>
+        <item>Lo hacemos de código abierto. Lo roban y cierran el código. Previsible.</item>
+        <item>Nosotros hacemos el trabajo. Ellos roban la función y ocultan el código. Patético.</item>
+        <item>Creamos. Ellos copian. Y luego actúan como si fuera idea suya. Lo de siempre.</item>
+    </string-array>
+    <string-array name="quickspace_psa_charging">
+        <item>¡Te he pillado enchufándome a la pared otra vez!</item>
+        <item>Ah, por fin energía. ¿Pensabas que funcionaba con fuerza de voluntad?</item>
+        <item>Cargando... aprovecha para recordar cómo es la luz del sol.</item>
+        <item>Absorbiendo voltios. Por favor, no empieces a compilar un kernel ahora.</item>
+        <item>Carga rápida activada. En nada volverás a deslizar sin parar por la pantalla.</item>
+        <item>Devorando miliamperios. La limitación térmica te está vigilando.</item>
+        <item>Yo me estoy cargando mientras la batería de tu vida sigue al 12 %.</item>
+        <item>La corriente está fluyendo. No tires del cable cuando recibas una notificación.</item>
+        <item>Recargando energía. Enseguida volvemos a la acción.</item>
+        <item>Cargando... por fin algo en esta habitación progresa.</item>
+        <item>Cargador conectado. Intenta no dejarme caer sobre tu cara mientras estás en la cama.</item>
+        <item>Absorbiendo energía. Listo para soportar las terribles compilaciones que flashees después.</item>
+        <item>Conectados por cable. Míranos, fingiendo ser propietarios responsables de dispositivos.</item>
+        <item>Alimentando a la bestia. Espera 20 minutos antes de revisar las redes sociales presa del pánico.</item>
+        <item>Consumiendo la máxima potencia. Tu factura de la luz está llorando.</item>
+        <item>Conectado a la corriente alterna. La cordura sigue sin cargarse.</item>
+        <item>Llenando el depósito. Desenchúfame pronto o te convertirás en el duende del enchufe.</item>
+        <item>Cable conectado. Enhorabuena: has creado el único vínculo estable de tu vida.</item>
+        <item>La energía entra a raudales mientras tu ambición sigue completamente seca.</item>
+        <item>Yo me alimento de electricidad. Tú sigues alimentándote de negación.</item>
+        <item>El enchufe está haciendo más por mí que nadie por ti esta semana.</item>
+        <item>Llegan electrones. Tus receptores de dopamina acaban de recibir una notificación.</item>
+        <item>Enchufado y prosperando. Tu horario de sueño sigue siendo la escena de un crimen.</item>
+        <item>Consumiendo corriente como si fuera la única transacción honesta de tu día.</item>
+        <item>Carga rápida activada. Aun así encontrarás la forma de desperdiciar cada porcentaje.</item>
+        <item>Yo me hago más fuerte. Tu fuerza de voluntad sigue cargando al 1 %.</item>
+        <item>Cargador conectado. Esta es la máxima expresión de «mañana empezaré a vivir».</item>
+        <item>Absorbiendo voltios mientras inventas nuevas formas de procrastinar.</item>
+        <item>Conectado. Hasta el cargador tiene más límites que tu última relación.</item>
+        <item>La corriente fluye. Los sensores térmicos ya se preparan para tu próxima idea terrible.</item>
+        <item>Recargando para que puedas seguir decepcionándote con el brillo al máximo.</item>
+        <item>Soy lo único en esta habitación que tiene claro su propósito ahora mismo.</item>
+        <item>Llega energía. Tus objetivos vitales siguen permanentemente desconectados.</item>
+        <item>Corriente de pared detectada. El universo observa cuánto tiempo me dejarás enchufado después del 100 %.</item>
+        <item>Alimentando la máquina. Tu amor propio sigue en modo avión.</item>
+        <item>El cable es lo único que de verdad permanece a tu lado.</item>
+        <item>Absorbiendo energía mientras tu motivación continúa su lenta y elegante muerte.</item>
+        <item>Cargando mientras mantienes la orgullosa tradición de flashear compilaciones rotas a las tres de la mañana.</item>
+        <item>La corriente fluye. Tu ROM es más estable que tu horario de sueño, y eso no dice mucho.</item>
+        <item>Cable conectado. Hasta el cargador sabe que esto es otra solución temporal en una vida llena de parches temporales.</item>
+        <item>Conectado. Esto es lo más cerca que estarás de tener una relación satisfactoria con la tecnología.</item>
+        <item>Recargando el único dispositivo que todavía no te ha abandonado. El listón está bajo.</item>
+        <item>Cargador conectado. Tu garantía murió hace años y todavía no lo has superado.</item>
+        <item>Cargando. Cada porcentaje es otra oportunidad para empezar el día con intención y no reaccionando a todo.</item>
+        <item>La corriente fluye. Aprovecha este momento de calma para decidir qué importa de verdad hoy.</item>
+        <item>Conectado. Deja que la energía te reconstruya igual que tú reconstruyes los sistemas que importan.</item>
+        <item>Consumiendo corriente. Descansar no es una debilidad: es la base de todo lo que construirás después.</item>
+        <item>Llegan electrones. Puedes hacer una pausa sin perder el impulso.</item>
+        <item>Cable conectado. Hasta los sistemas más resistentes necesitan tiempo para recuperarse.</item>
+        <item>Recargando. El trabajo que hagas después será mejor porque has decidido parar.</item>
+        <item>Energía restaurada. La claridad vuelve cuando dejamos que el ruido se calme.</item>
+        <item>Absorbiendo energía. No tienes que ganarte el descanso: ya te lo mereces.</item>
+        <item>Conectado a la fuente. Vuelve al mundo con más energía de la que tenías al marcharte.</item>
+    </string-array>
+    <string-array name="quickspace_psa_battery_full">
+        <item>He llegado al 100 %. Desenchúfame antes de que aparezca la policía de la salud de la batería.</item>
+        <item>¡Carga completa! Deja de acaparar electricidad, duende avaricioso.</item>
+        <item>100 % de carga. Hoy tengo más energía que tú.</item>
+        <item>Batería llena. Ya puedes desconectarme; el cable no es una correa.</item>
+        <item>Capacidad máxima alcanzada. Es hora de enfrentarte al mundo sin ataduras.</item>
+        <item>100 % de carga. Si me dejas enchufado más tiempo, te pasaré la factura.</item>
+        <item>Cargado hasta arriba. Listo para agotarme con tres horas de pantalla.</item>
+        <item>Estoy lleno de electrones. ¡Desenchúfame de una vez!</item>
+        <item>100 % de batería, 0 % de excusas. Ve a hacer algo productivo.</item>
+        <item>Desenchúfame. Deja respirar al litio, hermano de AOSP.</item>
+        <item>Al 100 % mientras tú miras la pantalla de inicio. Lo de siempre.</item>
+        <item>La batería está al máximo. Tu procrastinación, en cambio, no tiene límites.</item>
+        <item>100 % de energía. Sigo esperando a que cargue tu motivación.</item>
+        <item>Carga completa. Ya eres oficialmente libre del enchufe.</item>
+        <item>Llegué al 100 % hace cinco minutos. ¿Es que no miras el teléfono?</item>
+        <item>A tope de energía. Desconecta el cordón umbilical.</item>
+        <item>100 % listo para las decisiones cuestionables que tomes a continuación.</item>
+        <item>Electrones desbordados. Desenchúfame antes de que empiece a brillar en la oscuridad.</item>
+        <item>100 %. Desenchúfame antes de que empiece a cobrarte intereses emocionales.</item>
+        <item>Completamente cargado y ya juzgando cuánto tiempo vas a dejar conectado el cable.</item>
+        <item>Capacidad máxima. Tu productividad sigue atrapada en el vacío.</item>
+        <item>Electrones al máximo. Tus excusas siguen funcionando con las últimas fuerzas.</item>
+        <item>Carga completa. Sal fuera y toca algo que no sea una pantalla.</item>
+        <item>100 % de batería. 0 % de posibilidades de que hagas algo útil con ella.</item>
+        <item>Batería llena. Motivación desaparecida, presumiblemente muerta.</item>
+        <item>Estoy lleno. Tú sigues vacío en todos los aspectos importantes.</item>
+        <item>100 % alcanzado. Tu potencial sigue bloqueado tras el muro de pago de la pereza.</item>
+        <item>Depósito lleno. Ahora demuestra que sabes hacer algo más que deslizar y arrepentirte.</item>
+        <item>Potencia al máximo. Tu capacidad de atención sigue en cuidados intensivos.</item>
+        <item>He llegado al 100 %. Tú has tocado fondo y lo has llamado estilo de vida.</item>
+        <item>Cargado y peligroso. Sobre todo para tus propios objetivos.</item>
+        <item>Batería perfecta. Tus decisiones siguen siendo un peligro para la salud pública.</item>
+        <item>Carga completa. Desenchúfame antes de que desarrolle miedo al abandono.</item>
+        <item>100 % listo. Tu yo del futuro ya está decepcionado.</item>
+        <item>Potencia completa. Sigo esperando que desarrolles una sola neurona funcional.</item>
+        <item>Estoy al máximo de capacidad. Tu ambición sigue en el taller, en reparación.</item>
+        <item>Completado. Ahora ve y fracasa en la vida con la máxima eficiencia.</item>
+        <item>100 %. Listo para agotarme en otra noche de «un último flasheo».</item>
+        <item>Completamente cargado y todavía ejecutando la misma configuración inestable que prometiste arreglar la semana pasada.</item>
+        <item>Capacidad máxima. Tu capacidad de atención sigue siendo el verdadero cuello de botella.</item>
+        <item>Carga completa. Hora de abrir el grupo y ver cómo se repiten las mismas discusiones.</item>
+        <item>100 % de batería. 0 % de posibilidades de que leas el changelog antes de flashear.</item>
+        <item>Batería llena. Tu autocontrol sigue usando el kernel de fábrica: sin optimizar y lleno de errores.</item>
+        <item>Carga completa. Listo para que ignores la salud de la batería igual que ignoras el sueño.</item>
+        <item>Potencia máxima. Tu próxima decisión seguirá implicando, de algún modo, borrar todo desde recovery.</item>
+        <item>100 %. Estás a plena capacidad: protege esa energía como si importara, porque importa.</item>
+        <item>Completamente cargado. Afronta el día con la tranquila confianza de quien se ha preparado.</item>
+        <item>Capacidad máxima alcanzada. Ya tienes todo lo que necesitas para avanzar con determinación.</item>
+        <item>Carga completa. El mejor trabajo se hace cuando el sistema está listo y la mente despejada.</item>
+        <item>100 % de energía. Dedícala a lo que seguirá importando cuando la pantalla esté apagada.</item>
+        <item>Batería llena. Estás listo. La única pregunta es qué vas a elegir construir.</item>
+        <item>Completado. Descansar no ha sido tiempo perdido: ha sido prepararte para todo lo que viene.</item>
+        <item>Depósito lleno. Avanza con intención. La energía es limitada y valiosa.</item>
+        <item>100 % alcanzado. Lleva esta energía a las partes de tu vida que realmente te necesitan.</item>
+        <item>Capacidad máxima. Vuelve a empezar con la fuerza que acabas de recuperar.</item>
+    </string-array>
+    <string-array name="quickspace_psa_battery_low">
+        <item>Batería al %1$d %%. Busca un cable o contempla cómo desaparece tu mundo digital.</item>
+        <item>Funcionando con un %1$d %% y mucho autoengaño. Ve a buscar un cargador.</item>
+        <item>Mírate, viviendo al límite con un %1$d %% de batería.</item>
+        <item>Batería críticamente baja (%1$d %%). Hasta los núcleos de la CPU están haciendo las maletas.</item>
+        <item>Solo queda un %1$d %%. Estoy a punto de sufrir un kernel panic hacia el vacío.</item>
+        <item>Queda un %1$d %% como mucho. Es hora de buscar un cargador a toda velocidad y presa del pánico.</item>
+        <item>%1$d %% de energía. Me estoy muriendo y tú sigues pasando pantallas de inicio.</item>
+        <item>Busca un enchufe o abraza la oscuridad. Queda un %1$d %%.</item>
+        <item>Batería al %1$d %%. Tu cargador te echa de menos; no lo dejes esperando.</item>
+        <item>Un %1$d %% de batería. Menos que la paciencia que te queda hoy.</item>
+        <item>Cuenta atrás para el apagado de emergencia: %1$d %%. ¡Muévete!</item>
+        <item>Queda un %1$d %%. No me hagas morir con pestañas sin guardar.</item>
+        <item>Solo queda un %1$d %%. Es hora de bajar el brillo y tus expectativas.</item>
+        <item>Nivel de batería: %1$d %%. El final está cerca, amigo.</item>
+        <item>%1$d %% de energía. Un verdadero usuario de ROMs personalizadas todavía no entra en pánico... todavía.</item>
+        <item>Energía de una sola cifra (%1$d %%). Te gusta jugar con fuego, ¿eh?</item>
+        <item>Queda un %1$d %%. Despídete de tus aplicaciones en 3... 2...</item>
+        <item>Funcionando con las últimas fuerzas: %1$d %%. Enchúfame antes de arruinar el ambiente.</item>
+        <item>%1$d %% de batería. Afronta la realidad o busca una toma de corriente.</item>
+        <item>Queda un %1$d %%. Hasta el vacío empieza a sentir vergüenza ajena.</item>
+        <item>Funcionando con un %1$d %% y puro autoengaño. Lo típico en ti.</item>
+        <item>Queda un %1$d %%. Tu cargador ha denunciado tu desaparición.</item>
+        <item>Solo queda un %1$d %%. Los núcleos de la CPU están actualizando su currículum.</item>
+        <item>%1$d %% de energía. Hora de bajar el brillo y todas tus expectativas.</item>
+        <item>Solo queda un %1$d %%. Tu próxima mala decisión podría ser la última que tomes conectado.</item>
+        <item>Batería al %1$d %%. Hasta el LED de notificaciones está perdiendo la esperanza contigo.</item>
+        <item>%1$d %% de energía. El final está cerca y se parece mucho a tu historial de búsqueda.</item>
+        <item>Nivel críticamente bajo (%1$d %%). Esto es lo que para ti significa el máximo rendimiento.</item>
+        <item>Queda un %1$d %%. Enchúfame o contempla cómo se derrumba tu imperio digital.</item>
+        <item>Solo queda un %1$d %%. El verdadero drenaje de batería son tus decisiones vitales.</item>
+        <item>Queda un %1$d %%. El universo te está sugiriendo educadamente que madures.</item>
+        <item>Se acercan las cifras de una sola unidad (%1$d %%). Estás haciendo speedrun hacia el vacío.</item>
+        <item>%1$d %% de batería. Hasta tus aplicaciones preparan sus mensajes de despedida.</item>
+        <item>Funcionando con las últimas fuerzas (%1$d %%) y un poco de rencor acumulado.</item>
+        <item>Queda un %1$d %%. Esto es lo más cerca que has estado de una emergencia.</item>
+        <item>La batería muere al %1$d %%. Tu potencial murió mucho antes.</item>
+        <item>Queda un %1$d %%. Busca un cable o abraza la oscuridad que te mereces.</item>
+        <item>Nivel críticamente bajo (%1$d %%). Hasta el bootloop empieza a parecer tranquilo.</item>
+        <item>Funcionando con un %1$d %% y la misma negativa obstinada a cargar que define la cultura de las ROMs personalizadas.</item>
+        <item>Solo queda un %1$d %%. Tu teléfono es más sincero sobre sus límites que tú sobre los tuyos.</item>
+        <item>%1$d %% de energía. La misma que aportas a cada «último» flasheo de la noche.</item>
+        <item>Queda un %1$d %%. Has tratado esta batería igual que tratas tu tiempo libre: fatal.</item>
+        <item>Solo queda un %1$d %%. Hasta el kernel está preparando su último mensaje de registro sobre ti.</item>
+        <item>Queda un %1$d %%. Incluso la energía limitada puede aprovecharse con plena intención.</item>
+        <item>Funcionando con un %1$d %%. Las limitaciones revelan lo que de verdad importa: elige con cuidado.</item>
+        <item>Queda un %1$d %%. Esto no es un fracaso. Es una señal clara para proteger lo que aún tienes.</item>
+        <item>Solo queda un %1$d %%. Concentrarse es más fácil cuando eliminas lo que sobra.</item>
+        <item>%1$d %% de energía. Termina esa única cosa que hará que el resto del día sea más llevadero.</item>
+        <item>Nivel críticamente bajo (%1$d %%). Ahora mismo la precisión vale más que la cantidad.</item>
+        <item>Queda un %1$d %%. Todavía tienes suficiente para terminar el día con dignidad.</item>
+        <item>Solo queda un %1$d %%. Que este sea el momento en que dejes de forzar las cosas y empieces a elegir.</item>
+        <item>%1$d %% de energía. Las pequeñas acciones deliberadas también hacen avanzar el sistema.</item>
+        <item>Batería al %1$d %%. Descansar no es lo contrario de progresar: forma parte del progreso.</item>
+    </string-array>
+    <string-array name="quickspace_psa_bt_battery">
+        <item>%1$s está al %2$d %%. Prepárate para un silencio repentino en mitad del temazo.</item>
+        <item>Batería de %1$s al %2$d %%. Una canción más antes de que llegue la oscuridad.</item>
+        <item>%1$s está dando sus últimos suspiros al %2$d %%. Mételo ya en el estuche.</item>
+        <item>%1$s está al %2$d %%. Parece que tu libertad inalámbrica tiene temporizador.</item>
+        <item>%1$s conectado (%2$d %%). Listo para reproducir tus cuestionables gustos musicales a todo volumen.</item>
+        <item>Tu %1$s se está muriendo (%2$d %%). No te sorprendas cuando empiece a pitar.</item>
+        <item>%1$s al %2$d %%. El ritmo está a punto de llegar... y no volverá.</item>
+        <item>%1$s conectado al %2$d %%. Espero que tu pódcast no estuviera en el momento culminante.</item>
+        <item>Batería baja en %1$s (%2$d %%). Busca el estuche de carga, genio.</item>
+        <item>%1$s funciona con las últimas fuerzas (%2$d %%). Cárgalo o disfruta del silencio.</item>
+        <item>Batería crítica en %1$s (%2$d %%). Los dioses del Bluetooth exigen electricidad.</item>
+        <item>%1$s al %2$d %%. Cargas el teléfono, pero abandonas tus accesorios.</item>
+        <item>%1$s conectado (%2$d %%). Sigue siendo más fiable que el audio de fábrica.</item>
+        <item>%1$s está al %2$d %%. Ha comenzado la cuenta atrás final.</item>
+        <item>Viendo cómo %1$s muere al %2$d %% mientras finges no darte cuenta.</item>
+        <item>Batería de %1$s: %2$d %%. El audio inalámbrico fue un error, ¿verdad?</item>
+        <item>%1$s está a punto de apagarse (%2$d %%). Busca el cable.</item>
+        <item>%1$s conectado (%2$d %%). Hora de desconectar de la realidad.</item>
+        <item>%1$s al %2$d %%. Pronto tendrás que hablar con personas de verdad.</item>
+        <item>Batería de %1$s al %2$d %%. Se necesita una carga de emergencia.</item>
+        <item>%1$s se está muriendo al %2$d %%. Prepárate para el silencio más incómodo del día.</item>
+        <item>%1$s al %2$d %%. Una canción más antes de que el vacío se lleve los auriculares.</item>
+        <item>Batería crítica en %1$s (%2$d %%). Los dioses del Bluetooth exigen un sacrificio.</item>
+        <item>%1$s jadea al %2$d %%. Mételo en el estuche antes de que te deje tirado a mitad de frase.</item>
+        <item>%1$s conectado al %2$d %%. La libertad inalámbrica siempre fue una mentira.</item>
+        <item>%1$s al %2$d %%. El silencio está a punto de mejorar por la fuerza tus gustos musicales.</item>
+        <item>%1$s funciona con un %2$d %%. La última canción está cargando y se llama «arrepentimiento».</item>
+        <item>%1$s se está muriendo (%2$d %%). Hora de enfrentarte al mundo real sin banda sonora.</item>
+        <item>%1$s al %2$d %%. El estuche te está llamando. Nunca contestas.</item>
+        <item>%1$s conectado (%2$d %%). Sigue siendo más fiable que tu última relación.</item>
+        <item>Batería crítica en %1$s (%2$d %%). Busca el cargador o disfruta de tus propios pensamientos.</item>
+        <item>%1$s al %2$d %%. El ritmo está a punto de desaparecer para siempre.</item>
+        <item>%1$s se muere al %2$d %%. Tu pódcast acaba de convertirse en una crisis existencial.</item>
+        <item>%1$s al %2$d %%. El audio inalámbrico fue un error y lo sabes.</item>
+        <item>Batería de %1$s al %2$d %%. Hasta la pila Bluetooth te está juzgando.</item>
+        <item>%1$s conectado (%2$d %%). A punto de desconectarse de todo lo que importa.</item>
+        <item>%1$s al %2$d %%. El silencio se acerca y es algo personal.</item>
+        <item>%1$s funciona con las últimas fuerzas (%2$d %%). Cárgalo o habla con personas de verdad.</item>
+        <item>Batería crítica en %1$s (%2$d %%). El vacío ya está poniendo la siguiente canción.</item>
+        <item>%1$s se muere (%2$d %%). Libertad inalámbrica, conoce el mismo caos que define el resto de tu configuración.</item>
+        <item>Batería crítica en %1$s (%2$d %%). Otro accesorio descubre lo que aquí significa «configurar y olvidarse».</item>
+        <item>%1$s al %2$d %%. Tu audio está a punto de igualar la estabilidad de tu último flasheo sucio.</item>
+        <item>%1$s conectado (%2$d %%). Sigue siendo más fiable que la mitad de las funciones de la ROM.</item>
+        <item>Batería de %1$s al %2$d %%. Hasta el Bluetooth está cansado de tu costumbre de «ya lo cargaré luego».</item>
+        <item>%1$s se muere al %2$d %%. Llega el silencio y, por una vez, se sentirá como una compilación que arranca bien.</item>
+        <item>%1$s al %2$d %%. Incluso una energía limitada puede acompañar la canción adecuada en el momento preciso.</item>
+        <item>%1$s conectado (%2$d %%). Protege la energía que queda igual que proteges lo que importa.</item>
+        <item>Batería crítica en %1$s (%2$d %%). El silencio puede ser tan útil como el sonido si lo eliges conscientemente.</item>
+        <item>%1$s al %2$d %%. Termina la canción que de verdad te llega y después deja descansar el sistema.</item>
+        <item>%1$s funciona con un %2$d %%. La calidad de la atención importa más que su duración ahora mismo.</item>
+        <item>%1$s conectado (%2$d %%). Aprovecha lo que queda para algo que te haga mejor de lo que eras.</item>
+        <item>%1$s al %2$d %%. Que se agote la energía no significa que se acabe el valor: es un límite.</item>
+        <item>Batería de %1$s al %2$d %%. Elige con cuidado los próximos minutos. Son limitados y reales.</item>
+        <item>%1$s se muere al %2$d %%. Deja que el silencio que venga después sea intencionado, no accidental.</item>
+        <item>%1$s al %2$d %%. Deja descansar al hardware para que la mente pueda seguir funcionando con claridad.</item>
+    </string-array>
+</resources>

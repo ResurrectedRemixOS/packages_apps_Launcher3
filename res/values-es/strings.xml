@@ -275,4 +275,32 @@
     <string name="organizer_create_screen_title" msgid="1052454457895703433">"Crear pantalla"</string>
     <string name="organizer_create_screen_description" msgid="3224132391919219061">"Elige una categoría para añadir aplicaciones y widgets desde tu teléfono"</string>
     <string name="organizer_choose_layout_title" msgid="127228966942084947">"Elegir diseño"</string>
+    <string name="neon_icons_title">Iconos neón</string>
+    <string name="neon_icons_summary">El glifo de cada aplicación con el color de acento, dentro de un anillo luminoso. Activa los iconos temáticos.</string>
+    <string name="icon_style_rr_title">Estilo de icono</string>
+    <string-array name="icon_style_rr_entries">
+        <item>Predeterminado</item>
+        <item>Temático</item>
+        <item>Neón</item>
+    </string-array>
+    <string name="neon_ring_color_title">Color del anillo</string>
+    <string-array name="neon_ring_color_entries">
+        <item>Acento</item>
+        <item>Color propio de la aplicación</item>
+    </string-array>
+    <string name="neon_glow_title">Brillo</string>
+    <string name="neon_ring_title">Anillo</string>
+    <string-array name="neon_ring_entries">
+        <item>Fino</item>
+        <item>Medio</item>
+        <item>Grueso</item>
+    </string-array>
+    <string name="neon_folders_title">También en las carpetas</string>
+    <string name="folder_resized">Carpeta redimensionada a %1$d de ancho y %2$d de alto</string>
+    <string name="folder_frame_name">Cambiar tamaño de la carpeta %1$s</string>
+    <string name="icon_frame_name">Cambiar tamaño del icono %1$s</string>
+    <string name="icon_resized">Tamaño del icono cambiado</string>
+    <string name="increase_icon_size">Aumentar tamaño del icono</string>
+    <string name="decrease_icon_size">Reducir tamaño del icono</string>
+    <string name="reset_icon_size">Restablecer tamaño del icono</string>
 </resources>
